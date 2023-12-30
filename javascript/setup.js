@@ -1,5 +1,6 @@
 let pokemons = [' '];
 
+
 /**fetch pokemon name and id */
 async function getAllNames() {
     let url = 'https://pokeapi.co/api/v2/pokemon/?limit=898';
