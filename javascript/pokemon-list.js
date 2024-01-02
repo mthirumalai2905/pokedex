@@ -25,6 +25,8 @@ const typeColors = {
     'shadow': '#0E2E4C'
 };
 
+
+
 /**update pokemon list to */
 function updatePokemonList() {
     if (currentlyShowingAmount <= maxIndex) {
