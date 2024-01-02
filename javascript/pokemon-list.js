@@ -31,6 +31,8 @@ function updatePokemonList() {
     };
 };
 
+
+
 /**render */
 function renderPokemonListItem(index) {
     if (currentList[index]) {
