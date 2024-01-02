@@ -2,6 +2,7 @@ let currentlyShowingAmount = 0;
 let maxIndex = 29;
 let currentList = [];
 
+
 const typeColors = {
     'normal': '#BCBCAC',
     'fighting': '#BC5442',
